@@ -1,4 +1,4 @@
-# Iosevka SS10 WebFont 21.1.1
+# Iosevka SS10 WebFont 22.0.0
 
 ## How to use
 
